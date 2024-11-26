@@ -1,1 +1,1 @@
-# petshop-t-cnico
+# petshop-tecnico
